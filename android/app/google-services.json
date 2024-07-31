@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514683818563",
+    "project_id": "mi-primera-pagina-4f4e89",
+    "storage_bucket": "mi-primera-pagina-4f4e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514683818563:android:96be5b659b6a7613203af6",
+        "android_client_info": {
+          "package_name": "com.angel.miprimerapagina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4FVYa22QUES30bHPw-EqJ3FiwpexEhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
