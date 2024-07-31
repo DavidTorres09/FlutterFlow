@@ -18,3 +18,4 @@ export '/c_r_u_d_productos/c_r_u_d_productos_widget.dart'
     show CRUDProductosWidget;
 export '/lista_presentacion_productos/lista_presentacion_productos_widget.dart'
     show ListaPresentacionProductosWidget;
+export '/sinpe/sinpe_widget.dart' show SinpeWidget;

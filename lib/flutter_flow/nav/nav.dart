@@ -144,6 +144,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'ListaPresentacionProductos',
           path: '/listaPresentacionProductos',
           builder: (context, params) => const ListaPresentacionProductosWidget(),
+        ),
+        FFRoute(
+          name: 'SINPE',
+          path: '/sinpe',
+          builder: (context, params) => const SinpeWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );
